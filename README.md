@@ -10,6 +10,4 @@ Here, you'll find showcases of my latest personal projects and exercies, hopeful
 
 For more about me and my work, check out [kevinheyland.com](http://kevinheyland.com) and [DEVDEER](http://devdeer.com).
 
-Thank you for stopping by.
-
-## Let's create something amazing together. 💡🚀
+Thank you for stopping by. 💡🚀
